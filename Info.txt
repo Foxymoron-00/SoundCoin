@@ -1,0 +1,43 @@
+SoundCoin Important Info
+
+
+
+Default sb_publishable_CW5INdriEZ5hDSV7r7wgpw_gw5RMwK_
+
+API secret Key sb_secret_8KiY9Yqe_ZWFOY0qRAORKg_tQG8vst_
+
+client secret d3884eb8e9d93d460c88a4931c4ab714e97ab88f
+Legacy Service Role Secret eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdobHFtbndvZW1wbnN6ZW91ZGN6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MTY1MzkxMywiZXhwIjoyMDg3MjI5OTEzfQ.gPzEMvKjz-lsQXvV3uJQMyUtxZsCJeWV1ABGHVju6vA
+
+Legacy Anon Key eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdobHFtbndvZW1wbnN6ZW91ZGN6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE2NTM5MTMsImV4cCI6MjA4NzIyOTkxM30.1NkWoyKuF2lI1JP2vtxBFjt_Js3zNv_bUKqKhKFrp7w
+
+Project URL https://ghlqmnwoempnszeoudcz.supabase.co
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdobHFtbndvZW1wbnN6ZW91ZGN6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MTY1MzkxMywiZXhwIjoyMDg3MjI5OTEzfQ.gPzEMvKjz-lsQXvV3uJQMyUtxZsCJeWV1ABGHVju6vA
+
+
+
+https://soundcoin-api.soundcoin-backend.workers.dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google shit 
+
+
+234987226043-psotf8o0joj2aat24gd27b7jvpc1mn2r.apps.googleusercontent.com
+
+
+
+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
